@@ -1,0 +1,18 @@
+{
+    "name": "danielneis/moodle-gradereport_newgradereport",
+    "description": "A grade report template for Moodle based on http://docs.moodle.org/dev/Gradebook_reports",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Daniel Neis Araujo",
+            "email": "danielneis@gmail.com"
+        }
+    ],
+    "type": "moodle-gradereport",
+    "require": {
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "newgradereport"
+    }
+}
